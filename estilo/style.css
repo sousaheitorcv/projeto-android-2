@@ -114,8 +114,8 @@ main h2 {
 }
 main p {
     margin: 15px 0px 15px 0px;
-    text-align: justify;
     text-indent: 30px;
+    text-align: justify;
     font-size: 1em;
     line-height: 1.5em;
 }
